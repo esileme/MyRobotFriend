@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\libs\Sunflower.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="25b3dfbd1c4e44ba323683014f095775e6485924">
+        <dex dex="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\build\intermediates\pre-dexed\debug\Sunflower_3f5ae24534dc783f1265b387c9366fafe25fd048.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_1322c10018358c08e1b44df16f2bcf1b88d737a0.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_e6941ffc9cbf1270b1623cf686ba7082dcc4df08.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\libs\Msc.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85a46b29703ef8930a92d2fdea8ff336275c7ab2">
+        <dex dex="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\build\intermediates\pre-dexed\debug\Msc_06541dd7e296fd71051d4f9680371af133b6c26b.jar" />
+    </item>
+    <item
+        jar="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_e44306edbc6c9f7a24bbf39dff84e69f7459c583.jar" />
+    </item>
+    <item
+        jar="C:\Users\yl\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Users\Administrator\Desktop\code\CommRobot\MyRobotFriend\app\build\intermediates\pre-dexed\debug\gson-2.3.1_0c6cd1c6a59a14db2d69918d87a618518ca5e156.jar" />
+    </item>
+
+</items>
